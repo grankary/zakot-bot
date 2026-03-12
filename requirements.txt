@@ -1,3 +1,5 @@
 aiogram==3.18.0
 uvicorn==0.34.0
 starlette==0.46.1
+pydantic==2.10.6
+pydantic-core==2.27.2
